@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront with MySQL that take in orders from customers and deplete stock from the store's inventory, and track products sales across your store's departments and provide summary of highest-grossing departments",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paogemoua/bamazon.git"
+  },
+  "author": "Paoge Moua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paogemoua/bamazon/issues"
+  },
+  "homepage": "https://github.com/paogemoua/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
