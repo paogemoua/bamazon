@@ -6,7 +6,7 @@ Bamazon is an Amazon-like storefront with the MySQL. This app will take in order
 ## Visuals
 <!-- ![image] () -->
 
-![Watch the video]<!-- (https://i.imgur.com/vKb2F1B.png)]-->(https://drive.google.com/file/d/1UfLPqX6VsiCDgM2JOvPRmo-KcEcFeYOr/view)
+[Watch the video for demo] <!-- (https://i.imgur.com/vKb2F1B.png)]-->
 
 ## Technologies Used
 * Node.js
@@ -37,3 +37,4 @@ Distributed under the [MIT] license.
 
 <!-- Linked -->
 [MIT]: https://choosealicense.com/licenses/mit/
+[Watch the video for demo]: https://drive.google.com/file/d/1UfLPqX6VsiCDgM2JOvPRmo-KcEcFeYOr/view 
