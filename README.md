@@ -4,9 +4,9 @@
 Bamazon is an Amazon-like storefront with the MySQL. This app will take in orders from customers and deplete stock from the store's inventory. Also, it can also track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
 ## Visuals
-<!-- ![image] () -->
+![alt text][image]
 
-[Watch the video for demo] <!-- (https://i.imgur.com/vKb2F1B.png)]-->
+[Watch the video for demo]
 
 ## Technologies Used
 * Node.js
@@ -38,3 +38,4 @@ Distributed under the [MIT] license.
 <!-- Linked -->
 [MIT]: https://choosealicense.com/licenses/mit/
 [Watch the video for demo]: https://drive.google.com/file/d/1UfLPqX6VsiCDgM2JOvPRmo-KcEcFeYOr/view 
+[image]: https://drive.google.com/file/d/1-LnstPMlT99lfDg3XKhBpMbFZeaHqAp8/view?usp=sharing
