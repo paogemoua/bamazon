@@ -4,7 +4,9 @@
 Bamazon is an Amazon-like storefront with the MySQL. This app will take in orders from customers and deplete stock from the store's inventory. Also, it can also track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
 ## Visuals
-[alt text][image]
+[Image][image]
+
+[![Bamazon](assets/images/Bamazon.png)](https://github.com/paogemoua/bamazon)
 
 [Watch the video for demo]
 
