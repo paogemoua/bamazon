@@ -1,12 +1,12 @@
 # Bamazon
 
 ## Description
-Bamazon is an Amazon-like storefront with the MySQL. This app eill tkae in orders from customers and deplete stock from the store's inventory. Also, it can also track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
+Bamazon is an Amazon-like storefront with the MySQL. This app will take in orders from customers and deplete stock from the store's inventory. Also, it can also track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
 ## Visuals
 <!-- ![image] () -->
 
-[![Watch the video]<!-- (https://i.imgur.com/vKb2F1B.png)]-->(https://drive.google.com/file/d/1UfLPqX6VsiCDgM2JOvPRmo-KcEcFeYOr/view)
+![Watch the video]<!-- (https://i.imgur.com/vKb2F1B.png)]-->(https://drive.google.com/file/d/1UfLPqX6VsiCDgM2JOvPRmo-KcEcFeYOr/view)
 
 ## Technologies Used
 * Node.js
